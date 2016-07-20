@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+.innerpageteaser{
+font-weight: 500;
+color:#FFF;
+text-shadow: 1px 1px #000;
+}
+
+.innerpagetitle{
+font-weight: 600;
+color:#FFF;
+text-shadow: 1px 1px #000;
+position: relative;
+top: 14px;
+z-index: 1;
+}
+
+.h-feature-headline span i
+  {
+  
+
+background-color: #2c3e50;
+  }
+  
+
+.x-nav-tabs.six-up > li {
+width: 16.6%;
+}
+
+.x-nav-tabs.seven-up > li {
+width: 
+
+14.2%;
+}
+
+.x-nav-tabs.eight-up > li {
+width: 12.5%;
+}
+
+
+
+.tm_lcptu_post_title{
+font-size:14pt !important;
+}
+
+.x-navbar 
+{
+  
+
+  background-color: #2c3e50;
+    font-size: 14px;
+
+/*
+    position: relative;
+    overflow: visible;
+    z-index: 
+
+1030;
+*/
+}
+
+.p-meta span:first-of-type{
+  display:none;
+}
+
+.secondary-nav{
+background-color: #6ab749 !important;
+height: 30px !important;
+z-index: 999 !important;
+position: fixed;
+width: 100%;
+top: 65px !important;
+}
+body.x-
+
+navbar-fixed-top-active .x-navbar-wrap{height:30px !important;}
+.sub-menu
+{
+ background-color: #273d51 !
+
+important;
+}
+.secondary-nav ul *{
+ color: #FFF !important;
+}
+
+.secondary-nav ul{
+ margin-top: 2px !important;
+}
+
+
+.wp-
+
+tiles-template
+{
+color:#666 !important;
+}
+
+.x-colophon.top {
+padding: 0;
+background-color:rgba(9, 9, 9, 0.0);
+}
+
+
+.largeicons
+{
+font-size: 35px;
+}
+
+.last
+{
+text-align:right;
+}
+
+.x-card-inner
+{
+height: 280px !important ;
+}
+
+.imageborder
+{
+border:1px solid #CCC;
+}
+
+.whitebg {
+    background-color: #fff;
+}
+
